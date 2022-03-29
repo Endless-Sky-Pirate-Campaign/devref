@@ -1,0 +1,104 @@
+
+planet Novawarka
+	landscape #something temperate, but beautiful and paradisical. Alps, perhaps.
+	description `Novawarka is a planet of extreme variations in altitude, with the primary continent riddled hedgehog-like with mountain peaks, and boasting lush green lowlands that lay in the territories between each summit. Human settlement has yet to claim the entire planet for its own, but has shown little restraint in littering the peaks with glittering palaces and foreboding concrete-walled fortified compounds bristling with turrets, while the valleys have been painted with the patch-stripes of agriculture: rippling fields of grain, verdant orchards.`
+	description `Though flatter and drier, the sun-scorched and red-rocked equatorial continent looks like something out of a dream: incredibly blue pools of potassium-rich lakes bake under the sun, rendering the landscape a vibrant red-blue mottle.`
+	spaceport `Novawarka's spaceports tend to be built in the midlands and are, though perhaps a bit grubby about the edges, still surprisingly festive places. The grizzled Barony guards that patrol are generally in good spirit, in no small part aided by the lax oversight and generous opportunities for "extracurricular income" they can extract from visiting merchants. Cheerful, likewise, are the avenues themselves, festooned as they are with wreaths of flowers gathered from the planet's fertile valleys.`
+	spaceport `Artisans and merchants abound in the settlement flanking the port. This far from the misery of the agricultural serfs restricted to the lowlands there's a general aura of vibrant prosperity. Music, the scent of cooling bread, and floral fragrance are frequent visitors to the senses.`
+	# This planet's lower class is most of the population, and essentially slave laborers. They're kept in the valleys far from where any visiting merchants can see them. Any mentions of them should be kept to a minimum in planetary description: you need to go out of your way to actually witness what's going on here. This is by design of the planetary governors, and best handled by mission-stories.
+
+planet "Tellman's Wager"
+	description `An obviously alien world even from orbit: crimson and fleshtones dominate the dense jungle-canopy that claims this planet: Tellman's Wager has the appearance of a bleeding wound torn open in space. Familiar earthly hues of green and blue exist only in rare pockets where the works of humankind have altered the planet: Where night's shadow falls across them, their fringes are visible from the light of the man-made infernos which, bit by bit, consume the native flora and return their ash to nourish the soil.`
+	description `Where fire has swept the terrain clean, plantations thrive. A seemingly endless stream of trucks rumbles into the spaceport loading bays, their beds heavy with the beloved bounty of the ancestral land: lengthsome shoots of sweet sugar cane, richly hued mangoes, and load after load of to-be-processed coffee fruit trundle by for eventual export. Still, the scent of smoke clings to all.`
+	spaceport `Overseers and guards wear heavy rebreathers and are universally well-armed. The workers are, if lucky, in possession of a rag wrapped around their mouth and nose to filter out smoke. The only thing louder than the coughing is the piercing clamor of the alien wildlife that thrives beyond the burn zone. You are, of course, quickly presented with a complementary breathing apparatus. Baron Tellman has no shortage of largesse for esteemed visitors.`
+	# A colony covered in alien forests. Currently being slash-and-burned to make room for plantations. This isn't necessarily a bad thing, as the local flora is fairly toxic - and hostile. The heavy security presence on the planet isn't just to keep the workers in line, but also to mitigate Tanner raids. Tanners, a large ambush predator with stilt-like legs, lurk among the bone-like alien shoot-forests which thrive in the planet's flatter areas. They're so named for their tendency to flay and consume other animals (which, unfortunately, extends to humans) before wearing their pelts as shrouds. Be careful what you brush up against in the jungles of Tellman's Wager, there's little telling if a branch might be a leg before it's too late...
+	# A holding of Baron Tellman, a black sheep among the other Barons. Rather than accept ejection, he wagered that he could take this hell-world and turn it into a valuable holding worthy of further association among the Baronies. He appears to be winning.
+	
+planet Redfruit
+	description `Enormous cylindrical towers dominate the landscape: some belch gasses into the only partially terraformed colony's atmosphere. Others slumber, their superstructure choked with overgrowth. All have some level of decrepitude in common.`
+	description `Where the once all-encompassing ice sheets have been pushed back, colonies nestle with varying levels of success. The balmy equatorial band boasts burgeoning farmland, a rich tapestry of amber and viridian. The further one travels from this heartland, the more sparse settlement becomes, until there's no evidence of human habitation save for the occasional ice-choked town, buried and forgotten with only its spires and peaks protruding from the snowfields.`
+	spaceport `A converted university campus, now-fading signage around the region still refers to the primary spaceport as the "Redfruit Cooperative Agricultural College". Though a few scholars yet toil here on behalf of the Barons, the majority of campus infrastructure has been thoroughly plundered. The upper floors of these former halls of learning yawn empty, while the lower are bunkrooms for dockhands and drayage workers.`
+	spaceport `The only facility still used for its original purpose would be the sports field- when not having its turf chewed by ship's landing gear, off-duty workers congregate to punt around whatever they can lay their hands on. Owing to the planet's particularly lackluster gravity, they've been forced to get fairly creative to still enjoy traditional ball games.`
+	# Agricultural research world with fairly good infrastructure laid down by the former anarchist colonists, including some fairly advanced work towards new cultivars and terraforming. Most of it was pillaged or left to decay after the fall of the anarchist union, allowing the ice sheets to advance closer and closer to the equator. Every year a small handful of towns are either lost to the snow, or simply lose access to arable land and are forced to move regardless.
+	
+planet Widdershins
+	description `A miniscule pearl spinning lazily through the skies of Redfruit, the moon Widdershins has, over the last two decades, gradually become encrusted with increasingly grandiose chateau-habs. Freed from the demands of gravity that terrestrial architecture must necessarily hew to, the Baronic estates of Widdershins sprawl and soar in increasingly extravagant displays of ambition and, more often than not, poor taste.`
+	description `While the expenses incurred in the construction of these monuments to ego must have been significant, seemingly little of it went towards hiring anybody with a coherent sense of design aesthetics.`
+	spaceport `Widdershin's spaceport is, in contrast to the rest of the moon's development, of considerably older and more restrained construction. Staff take advantage of the low gravity to simply manhandle heavy equipment about rather than rely on mechanical lifters and loaders, despite the hangars being generously equipped with such.`
+	spaceport `The "Days Since Last Injury" sign on the wall boasts a distressingly low score.`
+	# A tiny moon in orbit around Redfruit. Mostly used for offworld chateaus occupied by the barons. It's also where high value prisoners are kept, as it's by convention a neutral ground even among the famously fractious baronies.
+	# The estates are construted like scabs over pre-existing infrastructure. Relatively advanced low-grav manufactories lie beneath the gilded veneer, lying idle after the upheaval of the last few decades sent most of the educated populace into exile.
+	
+planet Farfrum
+	description `Peeling paint competes with brightly hued banners to tell the tale of Farfrum: The sparkling jewel of the Baronies. Every main street and boulevard is clean of trash, grime, and sports well-maintained buildings. Professionals and merchants bustle about their business, trucks loaded with goods of all type make their deliveries and pickups, and even the guards in heraldic flak jackets seem to be in good cheer and mostly disinclined to harass you for bribes.`
+	description `The well-polished veneer falls into further disrepair the further from the main streets you range. Gleaming blocks of glass and steel give way to barely maintained shanties, housing for the wretched masses who toil in service of the fortunate few who live and work in the city centers.`
+	spaceport `Banners hang along the main hallway of the spaceport, bearing the heraldry and names of the Barons who joinly administrate Farfrum as a common holding: Barons 
+	# Fairly cosmopolitan world, bearing a healthy mixture of industry, extractions, processing, agriculture, and whatnot. Considered the public face of the Baronies, it's well-maintained and the populace relatively well treated compared to most of the other worlds. Even so, corruption is rampant among the colony's guards, and the polished veneer is fading under neglect and the fundamentally rapacious policies of the rulers.
+
+	
+The Warlords: Barons Ford, O'Neill, Tellman, Soong, and Montalban
+	
+	Ford was boasted neither the best equipped nor most numerous armies during the conflict era, but had the edge on his fellow barons in ruthlessness, cunning, and ability to weave plots. Redfruit was once shared between him and three other warlords: they were disposed of in a single night of violence as their trusted personal guard sold their loyalty to Baron Ford in return for generous fief allowances.
+
+	Baron Tellman's debts accrued to the point where he was forced to forfeit his holdings. Rather than leave the Baronies (where he would undoubtedly face reprisal from old enemies or the Republic), he instead made a desperate gamble: taking the last of his resources and carving out a foothold on a previously unnamed and extremely hostile planet. To everyone's shock (including Tellman's), the endeavor went far better than it had any right to. The burnt alien jungle has a natural fertilizing effect upon the soil, and the climate proved to be suitable for the growing of Earth's favorite fruits. Tellman remains mocked by his fellow Barons, but the wise among them know that in time he could prove a threat to their power: only Baron Ford can claim similarly unchecked expansion potential owing to his ownership of Redfruit.
+	
+	The rest of the warlords (O'Neill, Soong, Montalban, and to a lesser extent Ford) control territories across Novawarka and Farfrum. Infighting is rife as all seek to strengthen their position without actually starting a war: they must remain unified enough to stand against external enemies: without that threat there's little chance of any long term peace between these warlords.
+	
+	Widdershins is neutral ground, as is the main settlement on Novawarka. Novawarka is joinly administrated, while Widdershins has no particular need for governance on account of being composed entirely of private estates and the infrastructure that supports them.
+
+
+
+Story Concepts:
+	Farfrum
+	
+		A con artist sells you a letter of safe passage, claiming it was given to him by one of the barons. This is, in fact, true - but the baron that signed it was deposed years ago, and no longer can claim any authority. Guards attempting to extract bribes from you are not amused.
+		- Helps show off the cut-throat and volatile political landscape composing the baronies.
+		- Should this be a license-style outfit?
+		- Hints that, if you become friends with a baron, you could get a legitimate letter of safe passage
+	
+		Repeating mission where the guards won't let you in without paying a landing fee.
+		- Set of a few of these where the required bribe varies with how good a mood the guards are in.
+		- If you can establish respect among the spaceport guards they'll go easier on you.
+		- If you can get the patronage of a baron they'll leave you alone entirely.
+	
+	Novawarka
+	
+		Artisinal festival in the highlands. You'll have an opportunity to pick up for cheap some unique exports which can be taken back to the Republic for a profitable sale. Can be a recurring mission. Generally a cheerful, sunny type of thing. Just ignore the immiserated masses in the valley below.
+		- Shows how the middle class has it fairly comfortable in the Baronies.
+		
+		A merchant family offends one of the Barons, and are stripped of their property and banished to the lowlands to become common laborers.
+		- You can watch, or give them passage to the Republic. There aren't many jobs available outside of the Syndicate, but even that's better than being a Barony peasant.
+		- The resident baron isn't terrible pleased if you offer assistance. The suffering of the lower classes is a necessary looming threat to maintain order. Every comfortable middle class life is only a few missteps away from poverty.
+	
+		A series of massive fireballs blossom over the lowlands as sabotaged grain silos are set alight, resulting in the ignition of the energy-rich harvest stored within. Guards abandon their posts and rush to secure the area, leaving a hole in the mostly infantry-based anti-air screen securing the planet. Anarchist rebels use the opening to execute a low approach on one of the mountaintop chateaeus, unleashing a barrage of ordnance upon it before retreating out of atmosphere.
+		- You pick up a propaganda broadcast from the rebels, denouncing their targets and calling the attack a "Strike for Humanity", etc etc. It's jammed before it can be completed, overwritten by the planetary security chief offering a bounty for the destruction of the raiders.
+		
+		You decide to take a walk into the lowlands, only to be turned away by the guards. They don't want you mixing with the rabble. You can sneak down by simply not taking the main road, giving an opportunity to talk with the laborers. They're too afraid of punishment to stop work, but invite you to return after nightfall when they're given an hour or two of free time. Stories are swapped over a cookfire, legends of how things used to be, and hopes and worries for the future.
+	
+	Tellman's Wager
+	
+		Job board mission from the paradise worlds: A hunting party wants you to take them to Tellman's Wager, where they intend to bag a Tanner and get the chitinous monstrosity stuffed and mounted. You're invited to tag along on the expedition, which begins falling apart as, one by one, party members are lost to the jungle.
+		- If anyone survives they can be encouraged to boast of their accomplishments and ignore the horrible casualty rate incurred by hunting party. This unlocks repeatable transport missions where you bring daredevils to Tellman's Wager to hunt. This pleases Baron Tellman.
+		
+		Rumors swirl of laborers going mad and disappearing into the jungle, where they're presumeably killed by the wildlife or exposure to the myriad toxic flora that infest the untamed reaches of the planet. Though this is true for some of the unlucky ones, there's actually a secret airlift operation that's spiriting away malcontents to join offworld rebels seeking the downfall of the Baronies.
+		- Foreshadows later plot points in the pirate campaign
+		- Something we can revisit later as a recurring mission where you're either infiltrating the planet to pick up dissidents, or hunting down the transports doing so.
+	
+	Redfruit
+	
+		Sample the famous redfruit. It tastes exactly like you'd imagine it to: Perfectly generic, delicious in an alarmingly nonspecific way, and very... red.
+	
+		A researcher in the Deep asks you to visit Redfruit and see if his now-disappeared colleague is still there, or failing that, at least bring back his notes. It turns out that said colleague has sold out and is now a high-ranking scientific advisor to the Barons.
+		- This opens up a longer story where he can be swayed into sabotaging operations on Redfruit, or exploiting the old friendship with the Deep-based researcher in order to lure over some mercenary researchers who aren't above working with slaveholders.
+		
+		Job board mission from the Syndicate: Syndicate executives want passage to tour Redfruit and take note of the progress on its terraforming in order to gauge assess the agricultural colony is a viable investment prospect.
+		- Becomes complicated when the local overseer contacts you and insists you avoid the more decrepit areas of the planet for the sightseeing tour: you're offered a generous bribe to make sure that the inspectors only see that which has been well-maintained.
+	
+	Widdershins
+	
+		Escaped prisoners stow away on your ship. You discover them moments before local authorities demand entry to sweep your vessel for what they assure you are violent terrorists on the run from justice. You have a few minutes to try to conceal the escapees, assuming that you don't simply turn them over.
+		
+		Take part in an unusual low-gravity tetherball match. The ball itself is incredibly massive, and tends to take successive strikes from a mallet in order to get it moving - but once it's moving, it likes to stay moving. It isn't uncommon for players to become scooped up and flung over the horizion by a stray blow from the gameball. 
+		
+		Appreciate the fine art and other jewels of culture on display as Baron Henderson opens his estate to visitors. This opens up a second mission when you land on one of the outlaying anarchist worlds, where rebels approach you and ask you to visit Henderson again: but this time, you'll be carrying surveilance bugs to plant within his inner sanctum. Try not to get caught.
+		- Might need to defer this one until the campaign is written. Part one can definitely take place, though.
